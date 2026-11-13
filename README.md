@@ -219,4 +219,4 @@ Alfresco is provided as a full free version, including all features and updates.
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-11-12 23:24:50 UTC
+**Last updated:** 2026-11-13 06:00:07 UTC
